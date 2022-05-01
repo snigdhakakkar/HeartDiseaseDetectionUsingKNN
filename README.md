@@ -1,26 +1,26 @@
-# HeartDiseaseDetectionUsingKNN
-heart disease detection using K Nearest Neighbor (KNN) algorithm
+# HeartDiseaseDetectionUsingKNN <br />
+heart disease detection using K Nearest Neighbor (KNN) algorithm <br />
 
-**Project as a part of Data And Knowledge Management Course at University of Waterloo**
+**Project as a part of Data And Knowledge Management Course at University of Waterloo** <br />
 
-**Feature descriptions**:
-Below is the group of features presents in the dataset segregated by their type (numerical, categorical, ordinal, binary)
-**_Binary_**
-sex (0 = female; 1 = male)
-fbs: Fasting blood sugar > 120 mg/dl
-exang: Exercise induced angina (0 = no; 1 = yes)
-**Categorical**__
-cp: Chest pain type (0 = Asymptomatic angina; 1 = Atypical angina; 2 = Non-angina; 3 = Typical angina)
-restecg: Resting ECG (0 = Left ventricular hypertrophy; 1 = Normal; 2 = ST-T wave abnormality)
-slope: Slope of the peak exercise ST segment (0 = downsloping; 1 = upsloping; 2 = flat)
-thal: Thalium stress test result (0 = NA; 1 = Fixed defect; 2 = Normal; 3 = Reversible defect)
-**Ordinal**__
-ca: number of major vessels (0-3) colored by flourosopy
-**Numeric**__
-age
-oldpeak: ST depression induced by exercise relative to rest
-trestbps: Resting blood pressure
-chol: Serum cholestoral in mg/dl
-thalach: Maximum heart rate achieved during thalium stress test
-**Target**__
-target: 1 = heart disease; 0 = no heart disease
+**Feature descriptions**:<br />
+Below is the group of features presents in the dataset segregated by their type (numerical, categorical, ordinal, binary) <br />
+**_Binary_** <br />
+sex (0 = female; 1 = male) <br />
+fbs: Fasting blood sugar > 120 mg/dl <br />
+exang: Exercise induced angina (0 = no; 1 = yes) <br />
+**Categorical**__ <br />
+cp: Chest pain type (0 = Asymptomatic angina; 1 = Atypical angina; 2 = Non-angina; 3 = Typical angina) <br />
+restecg: Resting ECG (0 = Left ventricular hypertrophy; 1 = Normal; 2 = ST-T wave abnormality) <br />
+slope: Slope of the peak exercise ST segment (0 = downsloping; 1 = upsloping; 2 = flat) <br />
+thal: Thalium stress test result (0 = NA; 1 = Fixed defect; 2 = Normal; 3 = Reversible defect) <br />
+**Ordinal**__ <br />
+ca: number of major vessels (0-3) colored by flourosopy <br />
+**Numeric**__ <br />
+age <br />
+oldpeak: ST depression induced by exercise relative to rest <br />
+trestbps: Resting blood pressure <br />
+chol: Serum cholestoral in mg/dl <br />
+thalach: Maximum heart rate achieved during thalium stress test <br />
+**Target**__ <br />
+target: 1 = heart disease; 0 = no heart disease <br />
